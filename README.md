@@ -14,7 +14,17 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 
 ## 📁 Proyectos
 
-##0.0 Alerta temprana de mora
+## Alerta temprana de mora
+
+
+<a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-alerta-mora/powerbi/alerta_mora_valle_verde.pbix">
+  <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-alerta-mora/img/dashboard.png" alt="Tablero de alerta temprana de mora" width="700">
+</a>
+
+> 🖱️ Haz clic en la imagen para descargar el archivo de Power BI.
+
+[Ver proyecto completo: consultas SQL y script de Python](./proyecto-alerta-mora)
+
 
 **Herramientas:** SQL Server · Power BI · Python (pandas, pyodbc)
 
@@ -28,10 +38,7 @@ Análisis de una cartera simulada de 595 créditos y L 20.3 millones, orientado 
 
 **Hallazgos:** 29 % de la cartera está en mora, concentrada en Microempresa (41 %). Hay 34 créditos en etapa temprana con L 1.87 millones en riesgo.
 
-![Tablero de alerta temprana de mora](./proyecto-alerta-mora/img/dashboard.png)
-
-[Ver proyecto completo](./proyecto-alerta-mora)
-
+---
 ---
 
 ### 0.1 Seguimiento Financiero de Tiendas —  (Power BI)
