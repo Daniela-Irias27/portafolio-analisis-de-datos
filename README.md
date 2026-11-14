@@ -15,15 +15,13 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 ## 📁 Proyectos
 
 ## Alerta temprana de mora
-
-
-<a href="https://github.com/Daniela-Irias27/portafolio-analisis-de-datos/raw/main/dasboardMora/powerbi/alerta_mora_valle_verde.pbix">
-  <img src="https://github.com/Daniela-Irias27/portafolio-analisis-de-datos/raw/main/dasboardMora/img/dashboard.png" alt="Tablero de alerta temprana de mora" width="700">
+<a href="https://github.com/Daniela-Irias27/portafolio-analisis-de-datos/raw/main/proyecto%20alerta%20mora/powerbi/alerta_mora_valle_verde.pbix">
+  <img src="https://github.com/Daniela-Irias27/portafolio-analisis-de-datos/raw/main/proyecto%20alerta%20mora/img/dashboard.png" alt="Tablero de alerta temprana de mora" width="700">
 </a>
 
 > 🖱️ Haz clic en la imagen para descargar el archivo de Power BI.
 
-[Ver proyecto completo: consultas SQL y script de Python](./proyecto-alerta-mora)
+[Ver proyecto completo: consultas SQL y script de Python](./proyecto%20alerta%20mora)
 
 
 **Herramientas:** SQL Server · Power BI · Python (pandas, pyodbc)
