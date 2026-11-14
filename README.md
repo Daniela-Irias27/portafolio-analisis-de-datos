@@ -14,7 +14,27 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 
 ## 📁 Proyectos
 
-### 1. Seguimiento Financiero de Tiendas —  (Power BI)
+##0.0 Alerta temprana de mora
+
+**Herramientas:** SQL Server · Power BI · Python (pandas, pyodbc)
+
+Análisis de una cartera simulada de 595 créditos y L 20.3 millones, orientado a que el área de cobranza sepa a quién gestionar primero.
+
+- Mora por tramos de días de atraso e índice de mora por producto
+- Lista de alerta temprana: créditos con 1 a 30 días de atraso, ordenados por saldo en riesgo
+- Señales de deterioro y análisis de cosechas con funciones de ventana
+- Tablero interactivo en Power BI con medidas DAX
+- Script en Python que genera la lista de gestión en Excel
+
+**Hallazgos:** 29 % de la cartera está en mora, concentrada en Microempresa (41 %). Hay 34 créditos en etapa temprana con L 1.87 millones en riesgo.
+
+![Tablero de alerta temprana de mora](./proyecto-alerta-mora/img/dashboard.png)
+
+[Ver proyecto completo](./proyecto-alerta-mora)
+
+---
+
+### 0.1 Seguimiento Financiero de Tiendas —  (Power BI)
 
 <a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-tiendas/Analisis-Financiero.pbix">
   <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-tiendas/screenshot.png" alt="Dashboard de Análisis de Personal" width="700">
@@ -37,7 +57,7 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 
 ---
 
-### 2. Dashboard de Análisis de Personal — 207 Empleados (Power BI)
+### 0.2 Dashboard de Análisis de Personal — 207 Empleados (Power BI)
 
 <a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/Dashboard-de-Analisis-de-Personal.pbix">
   <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/screenshot.png" alt="Dashboard de Análisis de Personal" width="700">
@@ -60,7 +80,7 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 
 ---
 
-### 3. Análisis de Servicio al Cliente (Power BI)
+### 0.3 Análisis de Servicio al Cliente (Power BI)
 
 <a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-Call-Center/Analisis-Call-Center.pbix">
   <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-Call-Center/screenshot.png" alt="Dashboard Análisis de Call Center" width="700">
